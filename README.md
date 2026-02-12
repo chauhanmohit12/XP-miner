@@ -3,7 +3,7 @@ It is a powerfull tool used to collect Xp in a creative island (code = 8442-8238
 
 ## How it works 
 It can prevent the user from being kicked out by server for inactivity. It switches desktop to perform some movement and firing the gun few times to prevent being flagged as AFK by server.
-This program runs fortnite in backround and swithes to it every 5 min to maintain activity.
+This program runs fortnite in backround and switches to it every 5 min to maintain activity.
 
 ## Requirments
 * Python 3
