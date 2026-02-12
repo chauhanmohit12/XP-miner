@@ -1,2 +1,4 @@
 # XP-miner
-mines xp in fortnite
+It is a powerfull tool used to mine Xp in fortnite while being afk.
+
+
